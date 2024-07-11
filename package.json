@@ -88,4 +88,7 @@
       "prettier --write"
     ]
   }
+  "engines": {
+    "node": "12.13.0"
+  }
 }
