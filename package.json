@@ -88,4 +88,7 @@
       "prettier --write"
     ]
   }
+  "engines": {
+    "node": ">=0.10.3 <15"
+  }
 }
